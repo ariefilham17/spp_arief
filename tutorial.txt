@@ -1,0 +1,23 @@
+TEMPLATING
+https://www.petanikode.com/tutorial/codeigniter-4/
+
+RESTFUL API
+https://www.niagahoster.co.id/blog/rest-api-codeigniter/
+https://www.codeigniter.com/user_guide/incoming/restful.html?highlight=resource#resource-routes
+
+ROUTES 
+https://www.codeigniter.com/user_guide/incoming/restful.html?highlight=resource#resource-routes
+
+DATABASE
+https://www.codeigniter.com/user_guide/database/examples.html
+
+API TEMPAT LAHIR
+AMBIL PROVINCE
+GET https://emsifa.github.io/api-wilayah-indonesia/api/provinces.json
+
+AMBIL KOTA
+GET https://emsifa.github.io/api-wilayah-indonesia/api/regencies/11.json
+
+IMAGE LOGO 
+JIKA MAU ADA GANTI LOGO KE 
+public/layouts/modern-light-menu/loader.js

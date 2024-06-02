@@ -1,0 +1,18 @@
+- Input Nomer/RupiahV
+
+- List Pembayaran V
+- Input Pembayaran Bulanan V
+
+- Input Pemasukan
+
+- Input Pengeluaran
+
+6. Siswa ada view + Riwayat Pembayaran
+
+1. Jurusan Hapus - OK
+2. Kategori Siswa (1,2,3,4) Dinamis  - OK
+3. Bagian Pembayaran kelas hilang, tambah profil
+4. Kelas Error - OK
+5. Menu ganti judul :  - OK
+Jenis Biaya -> Biaya
+Biaya -> Nominal Biaya
